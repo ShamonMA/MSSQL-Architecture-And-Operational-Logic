@@ -172,3 +172,15 @@ BEGIN
 END
  ```  
 </details>  
+
+## 📊 Runtime Performance Monitoring & Resource Profiling
+![IMPERIUM Architecture](Sql_QueryStore.png)
+## 📉 Top Resource-Consuming Query Analysis
+![IMPERIUM Architecture](Sql_QueryStore2.png)
+## ⚡ Performance Tuning & Execution Plan Analysis
+![IMPERIUM Architecture](Sql_ExecutionPlan.png)
+## 🕒 SQL Server Agent Operations & Job Scheduling
+![IMPERIUM Architecture](Sql_Jobs.png)
+## 🏗️ Virtual Schema Design & Business Logic Encapsulation
+![IMPERIUM Architecture](Sql_Views.png)
+
