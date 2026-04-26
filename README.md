@@ -1,4 +1,4 @@
-## 🚀 Portfolio Overview
+## 🚀 Database Engineering Ecosystem
 ![IMPERIUM Architecture](MSSQL-Architecture-And-Operational-Logic.png)
 
 This repository is a comprehensive demonstration of full-lifecycle Microsoft SQL Server (MSSQL) expertise, ranging from structural database design to complex administrative operations.
